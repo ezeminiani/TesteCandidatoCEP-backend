@@ -1,0 +1,9 @@
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.DTO\bin\Debug\netstandard2.0\TesteCandidatoCEP.DTO.deps.json
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.DTO\bin\Debug\netstandard2.0\TesteCandidatoCEP.DTO.dll
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.DTO\bin\Debug\netstandard2.0\TesteCandidatoCEP.DTO.pdb
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.DTO\obj\Debug\netstandard2.0\TesteCandidatoCEP.DTO.csprojAssemblyReference.cache
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.DTO\obj\Debug\netstandard2.0\TesteCandidatoCEP.DTO.AssemblyInfoInputs.cache
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.DTO\obj\Debug\netstandard2.0\TesteCandidatoCEP.DTO.AssemblyInfo.cs
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.DTO\obj\Debug\netstandard2.0\TesteCandidatoCEP.DTO.csproj.CoreCompileInputs.cache
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.DTO\obj\Debug\netstandard2.0\TesteCandidatoCEP.DTO.dll
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.DTO\obj\Debug\netstandard2.0\TesteCandidatoCEP.DTO.pdb

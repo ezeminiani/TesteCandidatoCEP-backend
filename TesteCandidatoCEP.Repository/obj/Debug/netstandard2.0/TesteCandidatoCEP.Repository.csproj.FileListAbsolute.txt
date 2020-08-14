@@ -1,0 +1,12 @@
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.Repository\bin\Debug\netstandard2.0\TesteCandidatoCEP.Repository.deps.json
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.Repository\bin\Debug\netstandard2.0\TesteCandidatoCEP.Repository.dll
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.Repository\bin\Debug\netstandard2.0\TesteCandidatoCEP.Repository.pdb
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.Repository\bin\Debug\netstandard2.0\TesteCandidatoCEP.Domain.dll
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.Repository\bin\Debug\netstandard2.0\TesteCandidatoCEP.Domain.pdb
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.Repository\obj\Debug\netstandard2.0\TesteCandidatoCEP.Repository.csprojAssemblyReference.cache
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.Repository\obj\Debug\netstandard2.0\TesteCandidatoCEP.Repository.AssemblyInfoInputs.cache
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.Repository\obj\Debug\netstandard2.0\TesteCandidatoCEP.Repository.AssemblyInfo.cs
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.Repository\obj\Debug\netstandard2.0\TesteCandidatoCEP.Repository.csproj.CoreCompileInputs.cache
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.Repository\obj\Debug\netstandard2.0\TesteCandidatoCEP.Repository.csproj.CopyComplete
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.Repository\obj\Debug\netstandard2.0\TesteCandidatoCEP.Repository.dll
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.Repository\obj\Debug\netstandard2.0\TesteCandidatoCEP.Repository.pdb

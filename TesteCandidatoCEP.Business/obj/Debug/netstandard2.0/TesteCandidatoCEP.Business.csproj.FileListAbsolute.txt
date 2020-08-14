@@ -1,0 +1,16 @@
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.Business\bin\Debug\netstandard2.0\TesteCandidatoCEP.Business.deps.json
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.Business\bin\Debug\netstandard2.0\TesteCandidatoCEP.Business.dll
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.Business\bin\Debug\netstandard2.0\TesteCandidatoCEP.Business.pdb
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.Business\bin\Debug\netstandard2.0\TesteCandidatoCEP.Domain.dll
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.Business\bin\Debug\netstandard2.0\TesteCandidatoCEP.DTO.dll
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.Business\bin\Debug\netstandard2.0\TesteCandidatoCEP.Repository.dll
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.Business\bin\Debug\netstandard2.0\TesteCandidatoCEP.DTO.pdb
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.Business\bin\Debug\netstandard2.0\TesteCandidatoCEP.Repository.pdb
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.Business\bin\Debug\netstandard2.0\TesteCandidatoCEP.Domain.pdb
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.Business\obj\Debug\netstandard2.0\TesteCandidatoCEP.Business.csprojAssemblyReference.cache
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.Business\obj\Debug\netstandard2.0\TesteCandidatoCEP.Business.AssemblyInfoInputs.cache
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.Business\obj\Debug\netstandard2.0\TesteCandidatoCEP.Business.AssemblyInfo.cs
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.Business\obj\Debug\netstandard2.0\TesteCandidatoCEP.Business.csproj.CoreCompileInputs.cache
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.Business\obj\Debug\netstandard2.0\TesteCandidatoCEP.Business.csproj.CopyComplete
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.Business\obj\Debug\netstandard2.0\TesteCandidatoCEP.Business.dll
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.Business\obj\Debug\netstandard2.0\TesteCandidatoCEP.Business.pdb

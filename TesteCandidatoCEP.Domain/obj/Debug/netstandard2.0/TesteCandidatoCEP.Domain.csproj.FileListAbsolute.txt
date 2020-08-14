@@ -1,0 +1,9 @@
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.Domain\bin\Debug\netstandard2.0\TesteCandidatoCEP.Domain.deps.json
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.Domain\bin\Debug\netstandard2.0\TesteCandidatoCEP.Domain.dll
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.Domain\bin\Debug\netstandard2.0\TesteCandidatoCEP.Domain.pdb
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.Domain\obj\Debug\netstandard2.0\TesteCandidatoCEP.Domain.csprojAssemblyReference.cache
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.Domain\obj\Debug\netstandard2.0\TesteCandidatoCEP.Domain.AssemblyInfoInputs.cache
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.Domain\obj\Debug\netstandard2.0\TesteCandidatoCEP.Domain.AssemblyInfo.cs
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.Domain\obj\Debug\netstandard2.0\TesteCandidatoCEP.Domain.dll
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.Domain\obj\Debug\netstandard2.0\TesteCandidatoCEP.Domain.pdb
+C:\VisualStudioSolutions\eMix\TesteCandidatoCEP\TesteCandidatoCEP.Domain\obj\Debug\netstandard2.0\TesteCandidatoCEP.Domain.csproj.CoreCompileInputs.cache
